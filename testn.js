@@ -7,5 +7,5 @@ app.use('/',function(req,res){
 console.log('*****************************');
 console.log('**Inicializando el servidor**');
 console.log('*****************************');
-app.listen(3000);
+app.listen(80);
 module.export=express;
